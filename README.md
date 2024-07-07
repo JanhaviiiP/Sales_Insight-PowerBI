@@ -23,6 +23,13 @@ _To maintain a competitive edge and drive growth, companies must thoroughly unde
 **Reporting:** _Present the findings to stakeholders to support strategic decision-making._
 
 
+**DASHBOARD**
+
+![Model](https://github.com/JanhaviiiP/Sales_Insight-PowerBI/assets/122281553/c94b671d-2133-41cc-aa02-99a525e84cbe)
+
+
+
+
 ##Key Metrics
 
 -_Total Product Sold: 2.43M_.
