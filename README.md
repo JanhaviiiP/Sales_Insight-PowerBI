@@ -33,16 +33,21 @@ Task List
 
 
 
+
 **Key Metrics**
 
 -_Total Product Sold: 2.43M_.
+
 -_Total Revenue: $986.68M_.
+
 -_Total Profit: $137.30M_.
+
 
 
 **Sales Analysis**
 
-Sales Quantity by Markets
+#Sales Quantity by Markets
+
 
 -Delhi NCR: 989.09K units
 
@@ -53,7 +58,8 @@ Sales Quantity by Markets
 -Chennai: 112.76K units
 
 
-Revenue by Markets
+#Revenue by Markets
+
 
 
 -Delhi NCR: $520.83M
@@ -65,7 +71,9 @@ Revenue by Markets
 -Bhopal: $58.05M
 
 
-Profit by Markets
+
+#Profit by Markets
+
 
 -Delhi NCR: $76.23M
 
@@ -77,10 +85,13 @@ Profit by Markets
 
 
 
+
 **Trends**
+
 -_Revenue vs Profit Trend: Notable fluctuations from Jan 2018 to Jan 2019 with a peak in July 2018._
 
 -_Monthly Revenue vs Profit: Highest revenue in October ($100M) and highest profit in July ($81M)._
+
 
 
 #Top Customers
@@ -97,7 +108,9 @@ Profit by Markets
 -Nixon: $43.92M
 
 
+
 #Top Products
+
 
 
 -Prod019: 16.44K units
@@ -111,7 +124,9 @@ Profit by Markets
 -Prod045: 2.70K units
 
 
+
 #Revenue Segmentation 
+
 
 
 By Zone
@@ -123,7 +138,9 @@ By Zone
 -Central: 4.64%
 
 
+
 By Customer Type
+
 
 -Brick & Mortar: 75.64%
 
@@ -131,7 +148,10 @@ By Customer Type
 
 
 
+
+
 **Insights**
+
 
 -**Market Performance:** _Delhi NCR is the top-performing market in terms of sales quantity, revenue, and profit._
 
@@ -142,6 +162,7 @@ By Customer Type
 -**Product Analysis:** _Prod019 is the highest-selling product, suggesting a strong market demand for this SKU._
 
 -**Seasonal Trends:** _Revenue and profit trends indicate peak periods, with July and October being the most profitable months._
+
 
 
 
