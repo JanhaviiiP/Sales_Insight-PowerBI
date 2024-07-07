@@ -1,34 +1,41 @@
-#Sales and Revenue Analysis Dashboard
+**Sales and Revenue Analysis Dashboard**
 
-This repository contains a Power BI dashboard analysis focusing on sales and revenue metrics across various markets, products, and customer segments.
+_This repository contains a Power BI dashboard analysis focusing on sales and revenue metrics across various markets, products, and customer segments._
 
 ##Overview
 
-The dashboard provides insights into the total products sold, revenue generated, and profit across different markets. It also highlights trends over time and segments revenue by zones and customer types.
+_The dashboard provides insights into the total products sold, revenue generated, and profit across different markets. It also highlights trends over time and segments revenue by zones and customer types._
 
 ##Problem Statement
 
-To maintain a competitive edge and drive growth, companies must thoroughly understand their sales and revenue dynamics. The challenge is to analyze diverse data sets to uncover key performance indicators, identify market trends, and optimize sales strategies.
+_To maintain a competitive edge and drive growth, companies must thoroughly understand their sales and revenue dynamics. The challenge is to analyze diverse data sets to uncover key performance indicators, identify market trends, and optimize sales strategies._
 
 ##Task List
 
-**Data Collection:** Gather comprehensive sales data, including product sales, revenue, and profit across various markets.
-**Data Cleaning:** Ensure data accuracy and consistency for reliable analysis.
-**Dashboard Development:** Create a Power BI dashboard to visualize key sales and revenue metrics.
-**Analysis:** Interpret the data to derive actionable insights.
-**Reporting:** Present the findings to stakeholders to support strategic decision-making.
+**Data Collection:** _Gather comprehensive sales data, including product sales, revenue, and profit across various markets._
+
+**Data Cleaning:** _Ensure data accuracy and consistency for reliable analysis._
+
+**Dashboard Development:** _Create a Power BI dashboard to visualize key sales and revenue metrics._
+
+**Analysis:** _Interpret the data to derive actionable insights._
+
+**Reporting:** _Present the findings to stakeholders to support strategic decision-making._
+
 
 ##Key Metrics
--Total Product Sold: 2.43M
--Total Revenue: $986.68M
--Total Profit: $137.30M
+
+-_Total Product Sold: 2.43M_.
+-_Total Revenue: $986.68M_.
+-_Total Profit: $137.30M_.
 
 ##Sales Analysis
 
 ####Sales Quantity by Markets
--Delhi NCR: 989.09K units
--Mumbai: 383.77K units
--Kolkata: 215.46K units
+
+-_Delhi NCR: 989.09K units_.
+-_Mumbai: 383.77K units_.
+-_Kolkata: 215.46K units_.
 -Chennai: 112.76K units
 
 ####Revenue by Markets
