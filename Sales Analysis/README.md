@@ -25,12 +25,12 @@ To set up the project environment, follow these steps:
 ## Tools Used
 
 
-* **PySpark (Databricks): Data processing and feature engineering
-* **SQL: Data manipulation and KPI development
-* **MLlib: Machine learning library for predictive modeling
-* **MLflow: Tracking model performance and experiments
-* **Data Visualization: Matplotlib, Seaborn for visual insights
-* **Prophet: Time-series forecasting
+* **PySpark (Databricks): Data processing and feature engineering**
+* **SQL: Data manipulation and KPI development**
+* **MLlib: Machine learning library for predictive modeling**
+* **MLflow: Tracking model performance and experiments**
+* **Data Visualization: Matplotlib, Seaborn for visual insights**
+* **Prophet: Time-series forecasting**
 
 
 
